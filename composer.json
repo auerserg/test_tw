@@ -1,0 +1,21 @@
+{
+  "name": "auerserg/test_tw",
+  "authors": [
+    {
+      "name": "Auer Serg",
+      "email": "auerserg@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AuerSerg\\": "src"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "require": {},
+  "config": {
+    "vendor-dir": "vendor"
+  }
+}
